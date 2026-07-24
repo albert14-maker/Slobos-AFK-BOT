@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
+    "ip": "Albert688-FMt1.aternos.me",
+    "port": 60121,
     "version": "1.21.1"
   },
   "position": {
@@ -63,7 +63,7 @@
   },
   "modules": {
     "avoidMobs": true,
-    "combat": true,
+    "combat": false,
     "beds": true,
     "chat": true,
     "console-commands": true
